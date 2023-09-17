@@ -6,7 +6,7 @@ Repository containing CNN models for detection and classification of the DeepWee
 
 Our team (of 5 members) was tasked with choosing a dataset from a given list and frame a motivated problem statement around that dataset. We are then intended to spend the next 10 weeks exploring the problem using various machine learning techniques. As part of this project, I took upon the task of exploring the problem using Convolutional Neural Networks (CNN).
 
-You can additionally checkout the [project proposal](/Project%20Proposal.pdf) and [final presentation](/Final%20Presentation.pptx)
+You can additionally checkout the [project proposal](/resources/Project%20Proposal.pdf) and [final presentation](/resources/Final%20Presentation.pptx)
 
 ## Dataset
 
@@ -20,6 +20,7 @@ You can additionally checkout the [project proposal](/Project%20Proposal.pdf) an
 
 - /src - Jupyter notebooks for the CNN models and final ensemble
 - /models - corresponding models weights
+- /resources - proposal, presentation, and model structures
 - /final_images - 1:8:1 split
   - /test
   - /train
