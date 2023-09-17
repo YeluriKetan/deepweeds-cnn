@@ -1,1 +1,1 @@
-# deepweeds-cnn
+# DeepWeeds CNN
